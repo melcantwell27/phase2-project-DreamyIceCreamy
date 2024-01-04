@@ -1,0 +1,46 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Mint Choco-Chip",
+      "recipe": "1 can full fat coconut cream, 1 tsp van extract, 1 frozen banana into chunks, 1.5 tsp peppermint extract, 1 dark chocolate bar cut into chunks",
+      "imageURL": "https://www.allrecipes.com/thmb/X5-nSuuixYUwduwx3JzsE4w2f7g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3466687-d02e07a14d654efa8de6b92bec2d16e9.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Choco & PB Chunk",
+      "recipe": "1 can full fat coconut cream, 1 tsp van extract, 1 frozen banana into chunks, 1 tbsp cacao powder, 1/2 cup of frozen peanut butter chunks (about tsp per chunk) ",
+      "imageURL": "https://www.erinliveswhole.com/wp-content/uploads/2022/09/chocolate-pb-ice-cream-10-1024x1536.jpg"
+    },
+    {
+      "name": "Wild Blueberry Lavender Coconut Ice Cream",
+      "recipe": "2 (15 0z) cans full fat coconut milk (coconut cream also works), 1/2 cup Almond Breeze AlmondMilk CoconutMilk Blend, 1/4 monkfruit, 1 tsp vanilla extract, 2 tsp dried culinary lavender, 1 1/2 cups wild blueberries or wild berry mix",
+      "imageURL": "https://www.ambitiouskitchen.com/wp-content/uploads/2016/05/CoconutIceCream-4.jpg",
+      "id": 3
+    },
+    {
+      "name": "Spirulina & Cacao Nib",
+      "recipe": "14 oz full fat coconut milk\n1/4 cup agave syrup or maple syrup\n1 tsp spirulina\n1 tbsp cacao nibs",
+      "imageURL": "https://blog.nuts.com/wp-content/uploads/2014/11/vegan-spirulina-ice-cream-recipe.jpg",
+      "id": 4
+    },
+    {
+      "name": "Coconut Espresso",
+      "recipe": "Ingredients\n1 can coconut milk\n1 can coconut cream\n¼ - ½ cup honey\n1 tablespoon espresso powder\n1 cups Enjoy Life Chocolate Chips\nI used mini and morsels\nInstructions\nTurn the burner on medium-high and whisk together the coconut creams, honey and espresso powder.\nThe mixture should come to a low bowl. Turn down to low and cook for about five minutes, stirring frequently. You will have to whisk well, bc the coconut milk separates in the can.\nRemove from pan and place in the fridge for several hours. Or you can place the container on the counter in a large bowl of ice. It must be cold before you put it in the ice cream maker.\nAdd chocolate chips and stir. You cannot add chocolate chips to a warm coconut mixture or they will melt.\nPour into your ice cream maker and follow manufacturers directions.\nIt took mine about 20 minutes to come together.\nServe immediately for soft-serve style or place back in the freezer for a hard packed ice cream.",
+      "imageURL": "https://www.seasonalcravings.com/wp-content/uploads/2016/07/espressoicecream26ps-1024x1536.jpg",
+      "id": 5
+    },
+    {
+      "name": "Strawberry",
+      "recipe": "4 cups frozen strawberries\n28 ounces coconut cream from cans of coconut milk*, see notes below on how to make coconut cream from coconut milk (two 13.4 ounce cans)\n1 tablespoon vanilla extract, or 1 vanilla bean, split and seeded\n1/2 cup maple syrup",
+      "imageURL": "https://jessicainthekitchen.com/wp-content/uploads/2016/06/This-Vegan-Strawberry-Coconut-Ice-Cream-is-deliciously-creamy-no-churn-and-so-easy-to-make-You-only-need-4-ingredients-4.jpg",
+      "id": 6
+    },
+    {
+      "name": "Blueberry",
+      "recipe": "2 cups fresh blueberries\n1 13.5 oz can full-fat coconut milk\n1 1/2 cups vanilla unsweetened plant milk (I used Ripple’s new Vanilla Unsweetened and it worked perfectly!)\n1/2 cup honey (Consider maple syrup or agave if wanting to make this 100% Vegan 🙂)",
+      "imageURL": "https://kissinthekitchen.com/wp-content/uploads/2020/04/1-5.jpg",
+      "id": 7
+    }
+  ]
+}
