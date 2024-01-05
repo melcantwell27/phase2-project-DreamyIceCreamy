@@ -1,6 +1,6 @@
 Phase 2 Final Project: Dreamy Ice Creamy
 
-This project is to showcase the React skills built during Phase 2. 
+This project is to showcase the React skills built during Phase 2. I have populated the JSON server with some coconut-based ice cream recipes that I have developed or have been developed by others that plan to try out.
 
 My "Dreamy Ice Creamy" site, there is a NavBar with "Menu", "New Recipe", and "About" links. Upon USER click of ...
 1. Menu: a list of recipes & their images will populate
