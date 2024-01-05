@@ -3,7 +3,7 @@ Phase 2 Final Project: Dreamy Ice Creamy
 This project is to showcase the React skills built during Phase 2. 
 
 My "Dreamy Ice Creamy" site, there is a NavBar with "Menu", "New Recipe", and "About" links. Upon USER click of ...
-1. Menu: a list of recipes & their iamges will populate
+1. Menu: a list of recipes & their images will populate
 2. [a recipe card within] Menu: the image & recipe/ingredients of the selected recipe will show in a new page
 3. New Recipe, users can submit a form to add a recipe name, recipe/ingredients, and imageUrl.
   a. Upon form submission, the site will navigate to show the new recipe page.
